@@ -18,6 +18,5 @@ function timeToGetThere(travelInformation) {
 }
 
 
-
 let travelTime = timeToGetThere(travelInformation);
 console.log(travelTime);
